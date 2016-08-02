@@ -1,8 +1,8 @@
 /*
     Program Name:   Seminole Weather Channel
-    Author: 
-    Date: 
-    Filename:   apixu_forecast.js
+    Author:         Mason Smith
+    Date:           August 2, 2016
+    Filename:       apixu_forecast.js
 */
 
 
